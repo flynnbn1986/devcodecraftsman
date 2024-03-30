@@ -1,0 +1,33 @@
+{
+  "name": "devcodecraftsman",
+  "version": "1.0.2",
+  "description": "devcodecraftsman",
+  "type": "module",
+  "main": "devcodecraftsman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flynnbn1986/devcodecraftsman"
+  },
+  "website": "https://github.com/flynnbn1986/devcodecraftsman.git",
+  "keywords": [
+    "devcodecraftsman"
+  ],
+  "author": "flynnbn1986",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flynnbn1986/devcodecraftsman/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/flynnbn1986/devcodecraftsman#readme",
+  "dependencies": {
+    "devscriptwhisper": "1.0.2",
+    "programcraftsavvy": "1.0.2",
+    "codescriptmentor": "1.0.2" 
+  }
+}
